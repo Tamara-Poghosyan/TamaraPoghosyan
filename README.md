@@ -1,2 +1,1 @@
-# TamaraPoghosyan
-Testing
+It's my first repository
